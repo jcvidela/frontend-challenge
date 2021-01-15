@@ -1,3 +1,7 @@
+## Use application
+There is no test user defined, you can use whatever you want even if it "doesn't exist"
+
+
 ## Available Scripts
 
 In the project directory, you can run:
